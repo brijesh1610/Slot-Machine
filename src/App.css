@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.heading_style {
+  text-align: center;
+  background-color: #fecda6;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  justify-items: center;
+}
+.slot_inner {
+  text-align: center;
+}
+
+.slotMachine {
+  display: flex;
+  border-bottom: 3px solid gray;
+  border-top: 3px solid gray;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #87c4ff;
+}
